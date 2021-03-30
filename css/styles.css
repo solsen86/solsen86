@@ -1,0 +1,9 @@
+html, body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+#wrapper {
+    height: 100%;
+    padding-top: 70px;
+}
